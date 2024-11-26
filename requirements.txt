@@ -1,2 +1,11 @@
-notebook==6.5.1
-pandas==1.5.1
+pandas
+matplotlib
+pytz
+seaborn
+nltk
+langdetect
+networkx
+prophet
+fuzzywuzzy
+numpy
+ipython
