@@ -19,7 +19,6 @@ Python 3.8.13
 1. Open by Visual Studio Code root of this project
 2. Open `0_merge_data.ipynb`
 3. Click on `Run all` button (see screehshot)
-![alt text](<Screenshot 2024-11-26 at 15.22.41.png>)
 2. Open `data_analysis_20_questions.ipynb`
 3. Click on `Run all` button (see screehshot)
 ![alt text](<Screenshot 2024-11-26 at 15.22.41.png>)
