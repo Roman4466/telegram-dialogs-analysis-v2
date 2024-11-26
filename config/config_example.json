@@ -3,5 +3,9 @@
   "api_hash": "",
   "dialogs_data_folder": "../data/dialogs",
   "dialogs_list_folder": "../data/dialogs_meta",
-  "user_id": ""
+  "merged_data_path": "../data/merged_data",
+  "dialogs_merged_data_path": "../data/merged_data/dialogs_data_all.csv",
+  "dialogs_meta_merged_data_path": "../data/merged_data/dialogs_users_all.csv",
+  "gifs_folder": "../data/gifs_folder",
+  "user_id": "749006059"
 }
